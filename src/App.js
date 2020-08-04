@@ -4,9 +4,9 @@ import Seach from './components/Search';
 
 function App() {
   return (
-    <>
+    <div className="container">
       <Seach />
-    </>
+    </div >
   );
 }
 
